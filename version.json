@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3.0",
-  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.3.0.apk",
-  "notes": "ensemble-v4：10 注后 5 条改为遗漏/三区/重号/邻号/共现，蓝球马尔可夫邻位"
+  "versionCode": 6,
+  "versionName": "1.4.0",
+  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.4.0.apk",
+  "notes": "ensemble-v5：10 注含本地 MLP 与 n-gram；可选云端大模型；检查更新读公开仓"
 }
