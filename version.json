@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.0",
-  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.4.0.apk",
-  "notes": "ensemble-v5：10 注含本地 MLP 与 n-gram；可选云端大模型；检查更新读公开仓"
+  "versionCode": 7,
+  "versionName": "1.5.0",
+  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.5.0.apk",
+  "notes": "猴子图标；云端 5/10 注整包；检查更新读公开仓发行版"
 }
