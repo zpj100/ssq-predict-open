@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.5.0",
-  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.5.0.apk",
-  "notes": "猴子图标；云端 5/10 注整包；检查更新读公开仓发行版"
+  "versionCode": 8,
+  "versionName": "1.6.0",
+  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.6.0.apk",
+  "notes": "DeepSeek JSON Mode；云端 5/10 注与最近 5 期云端回测"
 }

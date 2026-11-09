@@ -2,9 +2,9 @@
 
 本仓库只存放发行 APK 与 `version.json`，供应用检查更新。不含源代码。
 
-当前版本：v1.5.0（versionCode 7）
+当前版本：v1.6.0（versionCode 8）
 
-下载：`releases/ssq-predict-v1.5.0.apk`
+下载：`releases/ssq-predict-v1.6.0.apk`
 
 本项目是开源的双色球历史回测与自动计算工具，用于查看开奖和数据回测。不推荐购买彩票。
 
