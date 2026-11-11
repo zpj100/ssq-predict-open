@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.7.0",
-  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.7.0.apk",
-  "notes": "学记彩票；放宽 DeepSeek 出号解析"
+  "versionCode": 10,
+  "versionName": "1.8.0",
+  "apkUrl": "https://gitee.com/zpj100/ssq-predict-open/raw/master/releases/ssq-predict-v1.8.0.apk",
+  "notes": "仓库 Token 检查更新；应用内下载进度"
 }
